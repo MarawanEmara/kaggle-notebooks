@@ -1,3 +1,2 @@
-
-titanic/test.csv
-titanic/train.csv
+*.csv
+*.txt
