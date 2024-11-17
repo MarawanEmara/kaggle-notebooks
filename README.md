@@ -28,6 +28,15 @@ This repository contains my Kaggle competition notebooks and solutions.
   - Interaction features
 - [Competition Link](https://www.kaggle.com/competitions/titanic)
 
+### [Digit Recognizer](digit%20recognizer/)
+- **Approach**: Convolutional Neural Network (CNN)
+- **Features**:
+  - 3-layer CNN architecture
+  - Hyperparameter optimization
+  - Data normalization and reshaping
+  - Comprehensive visualization
+- [Competition Link](https://www.kaggle.com/competitions/digit-recognizer)
+
 ## Key Features
 
 - Extensive data preprocessing and feature engineering
@@ -43,6 +52,3 @@ This repository contains my Kaggle competition notebooks and solutions.
 - numpy
 - matplotlib
 - seaborn
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
